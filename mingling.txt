@@ -13,5 +13,12 @@
 	git status 查看当前的状态
 	git commit -m "creat readme.txt"  提交做了哪些修改
 	git diff 查看哪些内容修改了
+	git reset --hard HEAD^ 向上提交一个版本
+	git log 查看历史纪录
+	git reset --hard 路径的前七位（查看历史纪录之后的commit）
+	cat 查看文件内容
+	git reflog 查看历史命令
+
+	
 
  
