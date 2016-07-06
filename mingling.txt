@@ -1,0 +1,17 @@
+	cd f:  //进入F盘
+	cd .. //返回上一级
+	cd 文件名  进入某个盘后，找到某个文件并进入
+	git config --global  user.name ""   //配置用户名
+	git config --global  user.email ""   //配置邮箱
+	git config --list  将配置好的用列表显示出来
+	dir 查看
+	mkdir 新建文件夹  文件夹名字没有引号
+	pwd 显示当前所在路径
+	help  查看有哪些命令
+	git init 初始化一个空的仓库
+	add 添加
+	git status 查看当前的状态
+	git commit -m "creat readme.txt"  提交做了哪些修改
+	git diff 查看哪些内容修改了
+
+ 
