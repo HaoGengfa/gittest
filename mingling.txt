@@ -18,6 +18,7 @@
 	git reset --hard 路径的前七位（查看历史纪录之后的commit）
 	cat 查看文件内容
 	git reflog 查看历史命令
+	git remote add origin  推送至一个远程服务器 后面输入地址
 
 	
 
